@@ -1,0 +1,6 @@
+---
+# defaults file for chrony
+ntp_servers: 
+  - ntpsrv1.airbus.com
+  - ntpsrv2.airbus.com
+  - ntpsrv3.airbus.com
