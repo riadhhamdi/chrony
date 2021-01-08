@@ -1,6 +1,6 @@
 ---
 # tasks file for chrony
-- name: Ensure Chrony package is installed 
+- name: S assurer que le package chrony est installe 
   dnf:
     name: chrony
     state: present 
